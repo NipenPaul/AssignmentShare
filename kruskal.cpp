@@ -27,7 +27,7 @@ void Union(int u, int v)
 
 int main()
 {
-	freopen("MST.txt", "r", stdin);
+	//freopen("MST.txt", "r", stdin);
      cin >> n >> e;
      i = 1;
 	while(i <= n){
