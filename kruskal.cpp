@@ -1,3 +1,8 @@
+/**
+Code Edit: BadLuckMan
+Don't copy deep..
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
