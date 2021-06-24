@@ -1,3 +1,8 @@
+/**
+Coder: BadLuckMan
+Don't copy deep..
+*/
+
 #include<bits/stdc++.h>
 #define INF 1000000007
 
